@@ -1,0 +1,4 @@
+virtual_scrapper/
+.ipynb_checkpoints/
+.DS_Store
+chromedriver_mac_arm64/
